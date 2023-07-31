@@ -1,2 +1,2 @@
 # MineSwift
-A Bad Minecraft Auto-Clicker inn python
+A Bad Minecraft Auto-Clicker in python
